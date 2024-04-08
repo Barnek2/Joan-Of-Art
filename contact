@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Joan Of Art</title>
+   <link rel="stylesheet" href="reset.css">
+   <link rel="stylesheet" href="main.css">
+</head>
+<body>
+   <div class="wrapper"> 
+ <header>
+<h2>Joan Of Art</h2>
+</header>
+<nav>
+<ul>
+   <a href="index.html">Home</a>
+   <a href="product">shop</a>
+   <a href="contact">Contact me</a>
+</ul>
+<main>
+<h2>Contact Infromation </h2>
+ 
+ 
+    <p>Email: Joannieb206@gmail.com</p>
+     <p>Phone: 513-633-8636</p>
+ 
+
+</main>
+</nav>
+</body>
+<footer>
+   
+</footer>
+</html>
+</div>
+
+
+
+
+
+
+
+
