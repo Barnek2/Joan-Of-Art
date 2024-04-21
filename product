@@ -18,15 +18,33 @@
    <a href="product">shop</a>
    <a href="contact">Contact me</a>
 </ul>
-**photos**
- </p>
+</nav>
+<main>
+<section class="photos">
+   <img src="images/black.jpeg" alt="Black Necklace" class="black">
+   
+   <img src="images/red and black.jpeg" alt="Red and Black "class="black">
+
+   <img src="images/red bracelet.jpeg" alt="Red Bracelet"class="black">
+
+   <img src="images/red necklace.jpeg" alt="Red Neckalce"class="black">
+<img src="images/Gold and black.jpeg" alt="gold and black" class="black ">
+<img src="images/pink and blue.jpeg" alt="pink and blue" class="black ">
+<img src="images/black and pink .jpeg" alt="black and pink" class="black ">
+<img src="images/Pink and green .jpeg" alt="pink and green" class="black">
+***Needs More***
+   
+</section>
+
+
+
 
 </main>
-</nav>
-</body>
+
 <footer>
-   
-</footer>
+</body>
+
 </html>
 </div>
+
 

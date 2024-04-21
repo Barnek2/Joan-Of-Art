@@ -18,22 +18,35 @@
    <a href="product">shop</a>
    <a href="contact">Contact me</a>
 </ul>
-<main>
-<h2>Contact Infromation </h2>
- 
- 
-    <p>Email: Joannieb206@gmail.com</p>
-     <p>Phone: 513-633-8636</p>
- 
-
-</main>
 </nav>
-</body>
-<footer>
+<main>
+ 
+   <!DOCTYPE html>
+   <html>
+   <head>
+      
+   </head>
+   <body> 
+   <h2>Contact Info </h2>
+   <p>phone: 513-633-8636</p>
+   <p>email: Joannieb206@gmail.com </p> 
+   </body>
+   </html>
    
+
+
+   <footer>
+
 </footer>
-</html>
 </div>
+</body> 
+</html>
+
+
+
+
+
+
 
 
 
