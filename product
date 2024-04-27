@@ -6,6 +6,8 @@
    <title>Joan Of Art</title>
    <link rel="stylesheet" href="reset.css">
    <link rel="stylesheet" href="main.css">
+   <link rel="stylesheet" href="index.html">
+  <link rel="stylesheet" href="product">
 </head>
 <body>
    <div class="wrapper"> 
@@ -14,37 +16,40 @@
 </header>
 <nav>
 <ul>
-   <a href="index.html">Home</a>
+   <a href="index.html" class="">Home</a>
    <a href="product">shop</a>
    <a href="contact">Contact me</a>
 </ul>
 </nav>
 <main>
-<section class="photos">
-   <img src="images/black.jpeg" alt="Black Necklace" class="black">
+
+   <section class="photos">
+      <img src="images/black.jpeg" alt="Black Necklace" class="black">
+
+   <img src="images/red necklace.jpeg" alt=" Red Necklace" class="black ">
+    
+   
+   <img src="images/Pink and green .jpeg" alt="Green and pink Neclace" class="black ">
+   
+   
+   <img src="images/Gold and black.jpeg" alt=" Gold and Black Bracelet" class="black ">
+  
    
    <img src="images/red and black.jpeg" alt="Red and Black "class="black">
-
-   <img src="images/red bracelet.jpeg" alt="Red Bracelet"class="black">
-
-   <img src="images/red necklace.jpeg" alt="Red Neckalce"class="black">
-<img src="images/Gold and black.jpeg" alt="gold and black" class="black ">
-<img src="images/pink and blue.jpeg" alt="pink and blue" class="black ">
-<img src="images/black and pink .jpeg" alt="black and pink" class="black ">
-<img src="images/Pink and green .jpeg" alt="pink and green" class="black">
-***Needs More***
+  
    
-</section>
-
+   <img src="images/red bracelet.jpeg" alt="Red Bracelet"class="black">
+   
+   <img src="images/pink and blue.jpeg" alt="pink and blue" class="black">
+   
+   <img src="images/black and pink .jpeg" alt=" black and pink" class="black">
+   </section>
+   
 
 
 
 </main>
-
 <footer>
-</body>
-
-</html>
 </div>
-
-
+</body>
+</html>

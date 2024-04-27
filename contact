@@ -27,9 +27,11 @@
       
    </head>
    <body> 
+      <div class="contact">
    <h2>Contact Info </h2>
    <p>phone: 513-633-8636</p>
-   <p>email: Joannieb206@gmail.com </p> 
+   <p>email: Joannieb206@gmail.com </p>  
+</div>
    </body>
    </html>
    
